@@ -2,7 +2,7 @@
 
 
 
-To run the code, you will need
+To run the code, you will need docker , docker-compose.  I use a makefile to run the entire process
 
 
 ```bash
